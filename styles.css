@@ -104,3 +104,11 @@ body{
         background-color: rgb(44, 41, 82);
     }
 }
+@media (max-width: 720px) {
+    #logo{
+        width: 100px;
+    }
+    #word{
+        width: 200px;
+    }
+}
