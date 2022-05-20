@@ -92,7 +92,7 @@ body{
     }
 }
 /* this is for portrait */
-@media (max-width: 300px) {
+@media (max-width: 400px) {
     #logo{
         width: 100px;
     }
@@ -102,13 +102,5 @@ body{
     body{
         background-image: none;
         background-color: rgb(44, 41, 82);
-    }
-}
-@media (max-width: 720px) {
-    #logo{
-        width: 100px;
-    }
-    #word{
-        width: 200px;
     }
 }
